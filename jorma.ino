@@ -10,9 +10,9 @@
 #define BIT2 2
 #define BIT1 1
 
-long longDuration = 1000;
+long longDuration = 1500;
 long shortDuration = 500;
-long offDuration = 200;
+long offDuration = 500;
 long betweenNumbersDuration = 1500;
 
 long calculateNextChange(unsigned char c, unsigned bit);
